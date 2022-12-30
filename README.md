@@ -1,4 +1,4 @@
-# singlePriceGridComponent
+# [singlePriceGridComponent](https://lionelnkaya.github.io/singlePriceGridComponent/)
 
 This project is just my solution to the Single Price Grid Component Challenge from 
 frontendmentor.io. I had fun learning about front end technologies with HTML and Vanilla CSS.
