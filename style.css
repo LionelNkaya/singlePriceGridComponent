@@ -16,6 +16,10 @@ html {
   body {
     padding: 20px;
     background-color:hsl(204, 43%, 93%);
+    min-height:100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
   }
   
   
